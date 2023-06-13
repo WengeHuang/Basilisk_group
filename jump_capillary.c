@@ -102,5 +102,5 @@ event adapt(i++)
   //  draw_vof("f", filled = 1, fc = {0.9, 0.4, 0.2});
     //squares("u.x",linear = true);
   //}
-  save("j_nl.mp4");
+  save("jump_capillary.mp4");
 }
